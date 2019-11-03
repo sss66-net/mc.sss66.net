@@ -1,0 +1,182 @@
+{
+    "afterschoolspecial": {
+        "replace": false,
+        "sounds": [
+            "afterschoolspecial"
+        ]
+    },
+    "brassrail": {
+        "replace": false,
+        "sounds": [
+            "brassrail"
+        ]
+    },
+    "brazil": {
+        "replace": false,
+        "sounds": [
+            "brazil"
+        ]
+    },
+    "closer": {
+        "replace": false,
+        "sounds": [
+            "closer"
+        ]
+    },
+    "elevator_music": {
+        "replace": false,
+        "sounds": [
+            "elevator_music"
+        ]
+    },
+    "epic": {
+        "replace": false,
+        "sounds": [
+            "epic"
+        ]
+    },
+    "epic2": {
+        "replace": false,
+        "sounds": [
+            "epic2"
+        ]
+    },
+    "iphone": {
+        "replace": false,
+        "sounds": [
+            "iphone"
+        ]
+    },
+    "lobby": {
+        "replace": false,
+        "sounds": [
+            "lobby"
+        ]
+    },
+    "numanuma": {
+        "replace": false,
+        "sounds": [
+            "numanuma"
+        ]
+    },
+    "nyancat": {
+        "replace": false,
+        "sounds": [
+            "nyancat"
+        ]
+    },
+    "overture": {
+        "replace": false,
+        "sounds": [
+            "overture"
+        ]
+    },
+    "oldrecords": {
+        "replace": false,
+        "sounds": [
+            "oldrecords"
+        ]
+    },
+    "piano": {
+        "replace": false,
+        "sounds": [
+            "piano"
+        ]
+    },
+    "portalradio": {
+        "replace": false,
+        "sounds": [
+            "portalradio"
+        ]
+    },
+    "punchout": {
+        "replace": false,
+        "sounds": [
+            "punchout"
+        ]
+    },
+    "robotrock": {
+        "replace": false,
+        "sounds": [
+            "robotrock"
+        ]
+    },
+    "runninginthe90s": {
+        "replace": false,
+        "sounds": [
+            "runninginthe90s"
+        ]
+    },
+    "sciencecrusher": {
+        "replace": false,
+        "sounds": [
+            "sciencecrusher"
+        ]
+    },
+    "skyrimtown": {
+        "replace": false,
+        "sounds": [
+            "skyrimtown"
+        ]
+    },
+    "sweetrascal": {
+        "replace": false,
+        "sounds": [
+            "sweetrascal"
+        ]
+    },
+    "tavern": {
+        "replace": false,
+        "sounds": [
+            "tavern"
+        ]
+    },
+    "techno": {
+        "replace": false,
+        "sounds": [
+            "techno"
+        ]
+    },
+    "tetristrance": {
+        "replace": false,
+        "sounds": [
+            "tetristrance"
+        ]
+    },
+    "ussr": {
+        "replace": false,
+        "sounds": [
+            "ussr"
+        ]
+    },
+    "violins": {
+        "replace": false,
+        "sounds": [
+            "violins"
+        ]
+    },
+    "waterdrop": {
+        "replace": false,
+        "sounds": [
+            "waterdrop"
+        ]
+    },
+    "windowsxp": {
+        "replace": false,
+        "sounds": [
+            "windowsxp"
+        ]
+    },
+    "windmill": {
+        "replace": false,
+        "sounds": [
+            "windmill"
+        ]
+    },
+	"test": {
+        "replace": false,
+        "sounds": [
+            "test"
+        ]
+    }
+}
